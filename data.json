@@ -1,0 +1,25 @@
+{
+  "elements":[{
+  "nom": "Assogba",
+  "prenom": "Emery",
+  "age": 12,
+  "email": [
+        "assogba.emery@gmail.com", "emery.assogba@gmail.com"
+     ]
+  },{
+   "nom": "Assogba",
+  "prenom": "Emery",
+  "age": 12,
+  "email": [
+        "assogba.emery@gmail.com", "emery.assogba@gmail.com"
+     ]
+  },{
+    "nom": "Assogba",
+  "prenom": "Emery",
+  "age": 12,
+  "email": [
+        "assogba.emery@gmail.com", "emery.assogba@gmail.com"
+     ]
+  }
+  ]
+}
