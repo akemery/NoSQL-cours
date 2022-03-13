@@ -7,8 +7,7 @@ curl -1 -i -X GET "https://graph.facebook.com/facebook/picture?redirect=false"
 ## Récuperer les information sur un noeud
 
 ```
-curl -1 -i -X GET \
-  "https://graph.facebook.com/USER-ID?access_token=ACCESS-TOKEN"
+curl -1 -i -X GET "https://graph.facebook.com/USER-ID?access_token=ACCESS-TOKEN"
 ```
 
 ## Récupérer des métadonnées d'un noeud
@@ -38,8 +37,7 @@ curl -i -X GET "https://graph.facebook.com/USER-ID/photos?access_token=ACCESS-TO
 ### Définir les champs
 
 ```
-curl -i -X GET \
-  "https://graph.facebook.com/USER-ID?fields=id,name,email,picture&access_token=ACCESS-TOKEN"
+curl -i -X GET "https://graph.facebook.com/USER-ID?fields=id,name,email,picture&access_token=ACCESS-TOKEN"
 ```
 
 ## Paramètres complexes
@@ -56,8 +54,7 @@ Le type object est aussi indiqué dans la syntaxe JSON, par exemple : {"firstkey
 Certains nœuds vous permettent de mettre à jour des champs avec des opérations POST. Par exemple, vous pouvez mettre à jour votre champ email comme suit :
 
 ```
-curl -i -X POST \
-  "https://graph.facebook.com/USER-ID?email=YOURNEW@EMAILADDRESS.COM&access_token=ACCESS-TOKEN"
+curl -i -X POST "https://graph.facebook.com/USER-ID?email=YOURNEW@EMAILADDRESS.COM&access_token=ACCESS-TOKEN"
 ```
 
 Lecture après écriture
