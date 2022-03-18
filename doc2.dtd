@@ -1,0 +1,7 @@
+<!-- schema.dtd-->
+<!ELEMENT papier (titre, sousTitre?, auteur, auteur2, resume)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT sousTitre (#PCDATA)>
+<!ELEMENT auteur (#PCDATA)>
+<!ELEMENT auteur2 (#PCDATA)>
+<!ELEMENT resume (#PCDATA)>

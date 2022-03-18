@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document modele="ULCoursGeneral" code="BP-Incendie3_S1_E2_UL1">
+  <entete><identification><titre>L'assurance de la responsabilité de voisinage</titre><date>21/02/01</date><auteur>AEA</auteur><version>1.00</version></identification>
+Jean Jacques
+<id> 24</id>
+</entete>
+  <corps>
+    <contenu>
+      <paragraphe>Cette garantie est appelée : recours des voisins et des
+tiers.</paragraphe>
+      <remarque>
+        <paragraphe>L'image suivante <ressource URIsrc="img07.jpg" titre="Recours des voisins et des tiers" type="image"/>
+montre la
+garantie.</paragraphe>
+      </remarque>
+    </contenu>
+  </corps>
+</document>

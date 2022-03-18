@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!--file.xml-->
+<!DOCTYPE papier SYSTEM "doc2.dtd">
+<papier>
+<titre>Réinterroger les structures documentaires</titre>
+<sousTitre>In this paper we define...</sousTitre>
+<auteur>Stéphane Crozat</auteur>
+<auteur2>Bruno Bachimont</auteur2>
+<resume>Nous proposons dans cet article d'aborder ...</resume>
+</papier>
