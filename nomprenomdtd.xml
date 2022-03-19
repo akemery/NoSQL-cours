@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personnes SYSTEM "nomprenom.dtd">
+<personnes>
+    <personne>
+        <nom>OTCHOUNl</nom>
+        <prenom>Rone</prenom>
+    </personne>
+    <personne>
+        <nom>GNAMMI</nom>
+        <prenom>Carine</prenom>
+        <age>40</age>
+    </personne>
+</personnes>
