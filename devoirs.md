@@ -1,4 +1,4 @@
-Le dossier ``data`` contient les données d'une base de donnée relationnel.
+Le dossier ``data`` contient les données d'une base de données relationnel.
 
 - Faire ressortir le schéma relationnel représentant les données contenues dans les ``fichiers .sql``
 - Proposer une version JSON du fichier ``donnees.sql``
@@ -11,13 +11,13 @@ NB: Il est préférable d'automatiser certaines étapes.
 
 Consignes
 
-a- Publier vos scripts et code sur votre compte ``github.com``
-b- Faire un rapport de quatre pages maximum ayant les éléments obligatoires suivants:
-    Introcution
-    Q1
-    Q2
-    Q3
-    Q4
-    Q5
-    Conclusion
-    Bibliographie
+- Publier vos scripts et code sur votre compte ``github.com``
+- Faire un rapport de quatre pages maximum ayant les éléments obligatoires suivants:
+    * Introcution
+    * Q1
+    * Q2
+    * Q3
+    * Q4
+    * Q5
+    * Conclusion
+    * Bibliographie
