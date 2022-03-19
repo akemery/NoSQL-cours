@@ -1,0 +1,15 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+<start>
+  <element name="personnes" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+>  <oneOrMore>
+      <element name="personne">
+          <element name="nom"><text/></element>
+          <element name="prenom"><text/></element>
+            <optional>
+              <element name="age"><data type="integer"/></element>
+            </optional>
+      </element>
+    </oneOrMore>
+  </element>
+</start>
+</grammar>

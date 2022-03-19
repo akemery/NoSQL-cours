@@ -1,0 +1,6 @@
+ <!-- schema.dtd-->
+<!ELEMENT personnes (personne+) >
+<!ELEMENT personne (nom, prenom, age?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
